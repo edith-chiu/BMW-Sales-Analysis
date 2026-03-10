@@ -16,7 +16,7 @@ View the interactive dashboard on Tableau Public:
 
 https://public.tableau.com/views/BMWsales_17728495006890/Sales2023-2025?:language=zh-TW&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-![Dashboard Preview](Sales 2023-2025.png)
+![Dashboard Preview](Sales-2023-2025.png)
 
 ---
 
