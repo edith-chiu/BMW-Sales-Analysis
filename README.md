@@ -62,6 +62,20 @@ Compares sales performance across regions for each vehicle model.
 
 ---
 
+## Business Recommendations
+
+The analysis suggests several opportunities to improve sales performance:
+
+• High-performing BMW models could be prioritised in marketing campaigns to maximise revenue growth.
+
+• Regions showing strong demand for specific models may present opportunities for targeted dealership promotions.
+
+• Models with weaker sales performance may benefit from pricing adjustments or marketing strategies to increase demand.
+
+• Tracking multi-year sales trends helps identify which models are gaining or losing popularity over time, supporting product planning decisions.
+
+---
+
 ## Tools Used
 
 - **Tableau** – dashboard development and advanced visualisations
